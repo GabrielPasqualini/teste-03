@@ -1,5 +1,9 @@
 Lista de Jogos
 
-Jogos preferidos 1
+Xadrez
 
-jogos preferidos 2
+Dominó
+
+Dama
+
+Truco
