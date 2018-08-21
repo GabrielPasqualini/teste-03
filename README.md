@@ -1,5 +1,7 @@
 Lista de Jogos
 
-Jogos preferidos 1
+Call of Duty
 
-jogos preferidos 2
+CS
+
+God of War
